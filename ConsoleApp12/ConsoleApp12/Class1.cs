@@ -6,7 +6,7 @@ namespace ConsoleApp12
 {
     class Class1
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             int i = 0;
             int j = 0;

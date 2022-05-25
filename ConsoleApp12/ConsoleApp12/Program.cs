@@ -4,7 +4,7 @@ namespace ConsoleApp12
 {
     class Program
     {
-        static void Main(string[] args)
+         public static void Main(string[] args)
         {
             int x = 6, y = 7;
             Console.Write(" ");
