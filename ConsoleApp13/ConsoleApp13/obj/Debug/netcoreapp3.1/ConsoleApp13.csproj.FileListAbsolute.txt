@@ -4,7 +4,6 @@ C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\C
 C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.dev.json
 C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.dll
 C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.pdb
-C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.AssemblyReference.cache
 C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfoInputs.cache
 C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\C
 C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.dll
 C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.pdb
 C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.genruntimeconfig.cache
+C:\Users\Pratik\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.AssemblyReference.cache

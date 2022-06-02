@@ -11,3 +11,4 @@ C:\Users\Pratik\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\C
 C:\Users\Pratik\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.dll
 C:\Users\Pratik\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.pdb
 C:\Users\Pratik\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.genruntimeconfig.cache
+C:\Users\Pratik\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.csproj.AssemblyReference.cache
